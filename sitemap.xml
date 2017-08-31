@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://blog.prozin.xyz/demo/index.html</loc>
+    
+    <lastmod>2017-08-31T08:08:59.533Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://blog.prozin.xyz/2017/08/31/hello-world/</loc>
     
     <lastmod>2017-08-31T06:51:22.597Z</lastmod>
